@@ -1,0 +1,13 @@
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\bin\Debug\netcoreapp3.1\MobileWebDevLab1.exe
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\bin\Debug\netcoreapp3.1\MobileWebDevLab1.deps.json
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\bin\Debug\netcoreapp3.1\MobileWebDevLab1.runtimeconfig.json
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\bin\Debug\netcoreapp3.1\MobileWebDevLab1.runtimeconfig.dev.json
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\bin\Debug\netcoreapp3.1\MobileWebDevLab1.dll
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\bin\Debug\netcoreapp3.1\MobileWebDevLab1.pdb
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.csprojAssemblyReference.cache
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.AssemblyInfoInputs.cache
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.AssemblyInfo.cs
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.csproj.CoreCompileInputs.cache
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.dll
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.pdb
+C:\Users\hallj\source\repos\MobileWebDevLab1\MobileWebDevLab1\obj\Debug\netcoreapp3.1\MobileWebDevLab1.genruntimeconfig.cache
